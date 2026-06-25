@@ -1,0 +1,8 @@
+csbdeep==0.8.1
+matplotlib==3.10.3
+numpy==1.26.4
+scikit-image==0.25.2
+scipy==1.15.3
+stardist==0.9.1
+tensorflow==2.19.0
+tifffile==2025.6.1
